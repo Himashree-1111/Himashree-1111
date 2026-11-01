@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Himashree 👋
 
-<!--
-**Himashree-1111/Himashree-1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BBA graduate and aspiring Data Analyst. I turn raw data into clear business insights using Python, SQL, Excel and Power BI.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages and analysis:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
+- **Tools:** Excel, Power BI, Tableau, Jupyter Notebook, Git and GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+
+### [Customer Churn Analysis](https://github.com/Himashree-1111/Customer-churn-analysis)
+Analysis of 7,032 telecom customers. Found a 26.58% churn rate, with month-to-month contracts churning at 42.7% versus 2.8% on two-year contracts. Built with Python, SQL and Excel.
+
+### [IT Project Performance and Employee Resource Analytics](https://github.com/Himashree-1111/IT-Project-Performance-Employee-Resources-analytics)
+Power BI dashboard covering project budgets, revenue, workforce, IT tickets and client satisfaction, using Python, SQL and Excel.
+
+## 🎓 Certifications
+- [Certificates repository](https://github.com/Himashree-1111/Certification): Diploma in Data Analytics (ADDA) and Masterclass in Data Analytics
+
+## 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/himashree-r-6921042a4) | himashreehima1111@gmail.com

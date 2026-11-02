@@ -14,8 +14,11 @@ Analysis of 7,032 telecom customers. Found a 26.58% churn rate, with month-to-mo
 ### [IT Project Performance and Employee Resource Analytics](https://github.com/Himashree-1111/IT-Project-Performance-Employee-Resources-analytics)
 Power BI dashboard covering project budgets, revenue, workforce, IT tickets and client satisfaction, using Python, SQL and Excel.
 
+### [Nykaa Sales Analysis and Dashboard](https://github.com/Himashree-1111/Nykaa-Beauty_Fashion-Sales_Analysis)
+Cleaned and analysed Nykaa sales data to measure sales performance, trends and product performance, with SQL queries, Excel reports and a Power BI dashboard.
+
 ## 🎓 Certifications
-- [Certificates repository](https://github.com/Himashree-1111/Certification): Diploma in Data Analytics (ADDA) and Masterclass in Data Analytics
+- [Certificates repository](https://github.com/Himashree-1111/Certifications): Diploma in Data Analytics (ADDA) and Masterclass in Data Analytics
 
 ## 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/himashree-r-6921042a4) | himashreehima1111@gmail.com
